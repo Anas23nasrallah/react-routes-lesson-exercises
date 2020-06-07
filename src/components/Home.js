@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import { BrowserRouter as Router, Route, Link } from 'react-router-dom'
-import About from './About'
+import { Link } from 'react-router-dom'
 import '../styles/home.css'
 
 class Home extends Component {
